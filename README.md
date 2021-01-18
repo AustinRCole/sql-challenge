@@ -1,1 +1,1 @@
-# sql-challenge
+In PostgreSQL, designed tables to hold CSVs containing historical employment data, imported the CSVs into the database, and then queried the data in order to answer questions, such as: names, salary, and hire dates of all employees, all employees hired in a specific year, and all employees in a specific department. 
